@@ -3,10 +3,11 @@ Interactive Sales Performance Dashboard (Excel)
 Dashboard Preview
 ![Sales Performance Dashboard](Screenshot_Summary Sales 2018.jpeg) 
 
+Data Source
+Kaggle
+
 Tools
-* **Microsoft Excel**: Data modeling and Pivot Tables.
-* **Power Pivot**: Managing underlying relational data.
-* **Dynamic Visualization**: Custom combination charts and map charts.
+Microsoft Excel (Pivot table, slicer, interactive dashboard)
 
 How to View the Project
 1. Download the `Superstore Dataset.xlsx` file from this repository.
